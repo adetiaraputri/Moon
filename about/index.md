@@ -7,17 +7,9 @@ date: 2016-05-27
     
 <center><a href="http://adetiaraputri.github.io"><b>adetiaraputri</b></a> is my GitBub Pages</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Assalamualaikum...
+
+
 
 ## Preview
 
