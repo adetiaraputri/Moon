@@ -4,7 +4,7 @@ bio:                Collage Student <a href="http://sif.uin-suska.ac.id">Informa
 description:        "welcome to my GitHub Pages"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'kecil.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
