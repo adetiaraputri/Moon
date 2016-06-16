@@ -9,7 +9,8 @@ date: 2016-05-27
 
 ## Assalamualaikum...
 
-
+welcome to github pages :)
+saya ade tiara putri, saya seorang mahasiswi di <a href="http://uin-suska.ac.id/">Uin Suska Riau</a>. Saya duduk di <a href="http://sif.uin-suska.ac.id">Jurusan Sistem Informasi</a> angkatan 2014. 
 
 ## Preview
 
