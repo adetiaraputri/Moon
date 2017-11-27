@@ -11,6 +11,7 @@ date: 2016-05-27
 
 {% capture images %}
     https://github.com/adetiaraputri/adetiaraputri.github.io/blob/master/foto.jpeg
+    https://drive.google.com/drive/folders/1X5Vtr75f0v_H2U7HskEJL3ZPx4pXI4gl
    
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
